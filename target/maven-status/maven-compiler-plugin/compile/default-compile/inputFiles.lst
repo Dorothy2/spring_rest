@@ -1,4 +1,5 @@
-/Users/drifai/sandbox/SimpleMavenWebProject/src/main/java/com/websystique/springmvc/configuration/HelloWorldConfiguration.java
-/Users/drifai/sandbox/SimpleMavenWebProject/src/main/java/com/websystique/springmvc/configuration/HelloWorldInitializer.java
-/Users/drifai/sandbox/SimpleMavenWebProject/src/main/java/com/websystique/springmvc/domain/Message.java
-/Users/drifai/sandbox/SimpleMavenWebProject/src/main/java/com/websystique/springmvc/controller/HelloWorldRestController.java
+/Users/drifai/sandbox/spring_rest/src/main/java/com/websystique/springmvc/controller/HelloWorldRestController.java
+/Users/drifai/sandbox/spring_rest/src/main/java/com/websystique/springmvc/configuration/HelloWorldInitializer.java
+/Users/drifai/sandbox/spring_rest/src/main/java/com/websystique/springmvc/log/LoggingUtils.java
+/Users/drifai/sandbox/spring_rest/src/main/java/com/websystique/springmvc/configuration/HelloWorldConfiguration.java
+/Users/drifai/sandbox/spring_rest/src/main/java/com/websystique/springmvc/domain/Message.java
